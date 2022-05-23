@@ -220,6 +220,8 @@ MonoBehaviour:
   posLim: 5
   posLeftLim: -5
   toRight: 0
+  prefab1: {fileID: 5654072624760174039, guid: a4a477b231c872a4c8f2c5c95ffe7765, type: 3}
+  prefab2: {fileID: 1788406776440667678, guid: ddfb267eb37cb8f4c887ae835848b8e8, type: 3}
 --- !u!1 &899497405
 GameObject:
   m_ObjectHideFlags: 0
